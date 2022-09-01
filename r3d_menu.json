@@ -5,11 +5,9 @@
         "items": [
             [ "nas", "filebrowser" ],
             [ "services", "samba4" ],
-            [ "services", "transmission" ],
             [ "system", "diskman" ],
             [ "services", "disks-info" ],
-            [ "services", "hd_idle" ],
-            [ "services", "minidlna" ]
+            [ "services", "hd_idle" ]
         ]
     }
 }
